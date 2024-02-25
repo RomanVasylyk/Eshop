@@ -1,0 +1,11 @@
+<img width="1438" alt="Знімок екрана 2024-02-25 о 22 52 18" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/a8710f2f-3a71-42bd-9cf0-c5e505705578">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 52 36" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/c26a1b95-49af-4f8a-9ec6-ae81ead6b6d7">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 52 52" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/fd2c27b0-7b6e-4e24-8572-1e7d323d8833">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 53 13" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/d82a4244-b18e-4729-94a1-3a420aeb693e">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 53 30" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/74e3692f-c696-4011-a69d-7bdee4f3c436">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 53 42" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/6150aa2a-308f-47ed-8699-f36c1b0f2c92">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 54 04" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/d413ea46-5f3c-48fa-b830-cf1e03f24ada">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 54 12" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/e6d205eb-2c1f-430f-ab89-2afca6f7bb3c">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 54 26" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/18469a07-f198-495f-9e09-d128c4650783">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 54 35" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/bf31de0f-ed2e-4bee-b2da-d35e97812021">
+<img width="1440" alt="Знімок екрана 2024-02-25 о 22 55 14" src="https://github.com/RomanVasylyk/Eshop/assets/131609378/81f7b9b2-c962-48b6-b50e-648582332a14">
